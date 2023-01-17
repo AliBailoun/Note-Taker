@@ -1,10 +1,10 @@
 const express = require('express');
 
-const PORT = process.env.PORT || 3001;
 const app = express();
 const apiRoutes = require('C:\Users\aliba\code\bootcamp\homework\Note-Taker\routes\apiRoutes\index.js');
 const htmlRoutes = require('C:\Users\aliba\code\bootcamp\homework\Note-Taker\routes\htmlRoutes\index.js');
 
+const PORT = process.env.PORT || 3001;
 // Parse URL encoded & JSON
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
