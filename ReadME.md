@@ -13,7 +13,7 @@ This is a professional note-taking application that uses Express.js to retreive 
 https://github.com/AliBailoun/Note-Taker
 
 ### Link to the youtube video:
-
-the link is going to be posted after the video
+https://youtu.be/-2nnRV1lFNQ
+Please note that the video is only accessible by this link and cannot be watched by any member of the public (avoiding copyright claims with trilogy education).
 
 
